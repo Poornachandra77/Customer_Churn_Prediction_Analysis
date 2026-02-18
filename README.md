@@ -146,7 +146,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 For questions or feedback, please reach out:
-- Email: your.email@example.com
+- Email: ckongarac@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - GitHub: [@yourusername](https://github.com/yourusername)
 
